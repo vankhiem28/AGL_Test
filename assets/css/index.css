@@ -286,6 +286,7 @@ html {
   grid-template-columns: 1fr 1fr 1fr;
 }
 .usage__bottom-item {
+  cursor: pointer;
   border-radius: 8px;
   border: 1px solid var(--var-primary-color);
   padding: 22px 48px 27px 48px;
@@ -347,6 +348,7 @@ html {
   gap: 17px;
 }
 .explain__item {
+  cursor: pointer;
   margin-top: 20px;
   background-color: var(--var-ea-color);
   border-radius: 8px;
